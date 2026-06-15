@@ -109,3 +109,19 @@ This project demonstrates:
 - Weighted scoring models
 - AI-assisted evaluation suggestions
 - API-based scoring engine
+
+## Project Structure
+
+This project is organized into modular components to separate logic, evaluation rules, and data handling.
+
+editTextGrids/
+│
+├── editTextGrids.py      → Main execution script
+├── evaluator.py          → Scoring and evaluation engine
+├── scoring_rules.py      → Defined evaluation criteria
+├── sample_inputs/        → Example raw inputs
+├── outputs/              → Generated evaluation results
+└── README.md             → Project documentation
+
+##
+Text → Scoring Rules → Evaluation Grid → Report Output
