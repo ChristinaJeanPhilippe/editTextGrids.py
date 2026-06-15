@@ -87,4 +87,25 @@ Each dimension is scored on a standardized scale (e.g., 1–5 or 1–10).
 
 ---
 
-## Project Structure
+
+---
+
+## Technical Writing Value
+
+This project demonstrates:
+
+- Structured evaluation system design
+- Documentation of complex workflows
+- QA framework development
+- Data-driven scoring methodology
+- Strong alignment with enterprise documentation systems
+
+---
+
+## Future Enhancements
+
+- Web-based evaluation dashboard
+- Integration with annotation tools (Label Studio, etc.)
+- Weighted scoring models
+- AI-assisted evaluation suggestions
+- API-based scoring engine
